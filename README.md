@@ -17,7 +17,7 @@ Ce projet consiste à implémenter plusieurs algorithmes de tri en utilisant des
 
 ## Objectifs
 
-À la fin de ce projet, vous devez être capable d'expliquer et de comprendre :
+Comprendre, expliquer et utiliser : 
 
 - Au moins quatre algorithmes de tri différents.
 - Ce qu'est la notation Big O et comment évaluer la complexité temporelle d'un algorithme.
